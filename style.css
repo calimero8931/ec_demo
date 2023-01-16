@@ -1,5 +1,16 @@
 @charset "utf-8";
-.img1 {
-    width: 60px;
-    height: 60px;
+img.gazo1 {
+    width: 100px;
+    height: 100px;
+}
+body {
+    font-family: "Roboto", "Noto Sans JP", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    padding: 5em 5em;
+    margin: 200px 200px;
+    border: double 5px #a4a1a1;
+}
+h1 {
+    margin: 10px auto;
+    text-align: center;
 }
