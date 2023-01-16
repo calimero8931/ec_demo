@@ -1,5 +1,5 @@
 @charset "utf-8";
-img.gazo1 {
+img.gazo {
     width: 100px;
     height: 100px;
 }
@@ -10,7 +10,7 @@ body {
     margin: 200px 200px;
     border: double 5px #a4a1a1;
 }
-h1 {
+h3 {
     margin: 10px auto;
     text-align: center;
 }
